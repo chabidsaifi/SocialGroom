@@ -1,4 +1,4 @@
-# GroomSocials - Super App MVP
+# SocialGroom
 
 A comprehensive Android Super-App built with Jetpack Compose, featuring social networking, messaging, marketplace, food ordering, events, and more.
 
@@ -214,4 +214,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Built with ❤️ using Jetpack Compose and modern Android development practices.**
-
